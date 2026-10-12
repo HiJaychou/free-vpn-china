@@ -5,5 +5,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-kramdown:
-  parse_block_html: true
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["UNSAFE", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
