@@ -1,0 +1,9 @@
+title: 2026 年中国翻墙 VPN 实测指南
+description: 科学上网工具怎么选：免费 VPN 能不能用、国际大牌为什么在国内难用、2026 推荐排名与对比总表、避坑黑名单，以及每周更新的「墙内观察」。
+lang: zh-CN
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+kramdown:
+  parse_block_html: true
